@@ -9,19 +9,11 @@ description: Patch a locally installed OpenClaw Control UI so that finishing an 
 >
 > Source: <https://github.com/SymbolStar/echoCue>
 
-<p align="center">
-  <img src="docs/widget.png" alt="echo floating picker widget" width="360" />
-</p>
+![echo floating picker widget](https://raw.githubusercontent.com/SymbolStar/echoCue/main/docs/widget.png)
 
-<p align="center">
-  <img src="docs/widget.gif" alt="echo picker widget in action" width="360" />
-</p>
+![echo picker widget in action](https://raw.githubusercontent.com/SymbolStar/echoCue/main/docs/widget.gif)
 
-<p align="center">
-  <em>Click the floating 🔔 in the bottom-right corner to open the picker:
-  enable / disable, choose a preset, Preview each sound —
-  no DevTools required.</em>
-</p>
+*Click the floating 🔔 in the bottom-right corner to open the picker: enable / disable, choose a preset, Preview each sound — no DevTools required.*
 
 A zero-build local patch for OpenClaw Control UI (webchat) that plays a short
 two-tone chime (A5 → E5, ~900ms) when an assistant reply finishes streaming.
