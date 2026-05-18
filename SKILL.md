@@ -6,6 +6,18 @@ description: Patch a locally installed OpenClaw Control UI so that finishing an 
 # echo 🔔
 
 > ClawHub package name: [`echo-cue`](https://clawhub.com/skills/echo-cue) (the slug `echo` is taken by another publisher; product is called `echo` locally).
+>
+> Source: <https://github.com/SymbolStar/echoCue>
+
+<p align="center">
+  <img src="docs/widget.png" alt="echo floating picker widget" width="360" />
+</p>
+
+<p align="center">
+  <em>Click the floating 🔔 in the bottom-right corner to open the picker:
+  enable / disable, choose a preset, Preview each sound —
+  no DevTools required.</em>
+</p>
 
 A zero-build local patch for OpenClaw Control UI (webchat) that plays a short
 two-tone chime (A5 → E5, ~900ms) when an assistant reply finishes streaming.
