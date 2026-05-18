@@ -14,10 +14,6 @@ description: Patch a locally installed OpenClaw Control UI so that finishing an 
 </p>
 
 <p align="center">
-  <img src="docs/widget.gif" alt="echo picker widget in action" width="360" />
-</p>
-
-<p align="center">
   <em>Click the floating 🔔 in the bottom-right corner to open the picker:
   enable / disable, choose a preset, Preview each sound —
   no DevTools required.</em>
